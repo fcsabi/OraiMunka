@@ -1,0 +1,6 @@
+public class Human {
+    mond mond;
+    public Human(Mond mond) {
+        this.mond = mond;
+    }
+}
